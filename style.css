@@ -107,3 +107,26 @@ body {
 .cell:nth-child(13) {
   animation-delay: -1.95s;
 }
+
+.cell:nth-child(14) {
+  animation-delay: -2.1s;
+}
+
+.cell:nth-child(15) {
+  animation-delay: -2.25s;
+}
+
+.cell:nth-child(16) {
+  animation-delay: -2.3s;
+}
+
+@keyframes rotate {
+  0% {
+    filter: hue-rotate(0deg);
+    transform: rotateX(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+    transform: rotateX(360deg);
+  }
+}
