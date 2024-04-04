@@ -41,4 +41,18 @@ body {
   height: 10px;
   border-radius: 100%;
   background: #00eaff;
+  box-shadow: 0 0 150px #00eaff;
 }
+
+.cell::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: -5px;
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background: rgb(255, 251, 0);
+  box-shadow: 0 0 120px rgb(246, 255, 0);
+}
+
