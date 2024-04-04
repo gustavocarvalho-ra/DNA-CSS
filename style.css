@@ -87,3 +87,23 @@ body {
 .cell:nth-child(8) {
   animation-delay: -1.2s;
 }
+
+.cell:nth-child(9) {
+  animation-delay: -1.35s;
+}
+
+.cell:nth-child(10) {
+  animation-delay: -1.5s;
+}
+
+.cell:nth-child(11) {
+  animation-delay: -1.65s;
+}
+
+.cell:nth-child(12) {
+  animation-delay: -1.8s;
+}
+
+.cell:nth-child(13) {
+  animation-delay: -1.95s;
+}
