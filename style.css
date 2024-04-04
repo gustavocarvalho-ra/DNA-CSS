@@ -29,4 +29,16 @@ body {
   background: transparent;
   border: 1.1px dotted #fff;
   box-shadow: 0 0 105px #00eaff;
+  animation: rotate 3s linear infinite;
+}
+
+.cell::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -5px;
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background: #00eaff;
 }
