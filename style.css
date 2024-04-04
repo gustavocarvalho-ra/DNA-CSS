@@ -56,3 +56,34 @@ body {
   box-shadow: 0 0 120px rgb(246, 255, 0);
 }
 
+.cell:nth-child(1) {
+  animation-delay: -0.15s;
+}
+
+.cell:nth-child(2) {
+  animation-delay: -0.3s;
+}
+
+.cell:nth-child(3) {
+  animation-delay: -0.45s;
+}
+
+.cell:nth-child(4) {
+  animation-delay: -0.6s;
+}
+
+.cell:nth-child(5) {
+  animation-delay: -0.75s;
+}
+
+.cell:nth-child(6) {
+  animation-delay: -0.9s;
+}
+
+.cell:nth-child(7) {
+  animation-delay: -1.05s;
+}
+
+.cell:nth-child(8) {
+  animation-delay: -1.2s;
+}
