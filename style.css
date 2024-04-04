@@ -11,3 +11,22 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.DNA {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform-style: preserve-3d;
+  transform: rotateZ(-50deg);
+}
+
+.cell {
+  position: relative;
+  width: 1px;
+  height: 100px;
+  margin: 0 10px;
+  background: transparent;
+  border: 1.1px dotted #fff;
+  box-shadow: 0 0 105px #00eaff;
+}
