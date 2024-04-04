@@ -27,7 +27,7 @@ body {
   height: 100px;
   margin: 0 10px;
   background: transparent;
-  border: 1.1px dotted #fff;
+  border: 0.01px dotted #fff;
   box-shadow: 0 0 105px #00eaff;
   animation: rotate 3s linear infinite;
 }
