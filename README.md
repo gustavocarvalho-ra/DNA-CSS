@@ -1,5 +1,7 @@
 # DNA - CSS
 
+## Neste projeto, foi usado apenas animações em CSS.
+
 
 ![a (2)](https://github.com/gustavocarvalho-ra/DNA-CSS/assets/137126878/b6612309-86b9-4e89-9365-4d81d5cf2aea)
 
